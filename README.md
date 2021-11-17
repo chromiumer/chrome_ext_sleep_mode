@@ -1,1 +1,4 @@
-# chrome_ext_sleep_mode
+##### chrome扩展 睡眠模式
+
+###### 修改所有字体（前景）和背景色。
+
